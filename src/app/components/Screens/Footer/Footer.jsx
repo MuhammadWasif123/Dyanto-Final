@@ -14,7 +14,7 @@ const Footer = () => {
           className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold
          md:w-full text-center"
         >
-          <span className="text-[#4b505e]">Free</span> until you're ready to
+          <span className="text-[#4b505e]">Free</span> until you are ready to
           launch
         </h1>
 
